@@ -1,0 +1,1 @@
+-Wall -save-temps -o  prob prob1.c
